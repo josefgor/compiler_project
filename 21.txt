@@ -1,0 +1,20 @@
+ NAME:dec
+	MNas:2 move
+  ju:mp
+	 	 jmping:
+    		g5hlt: sdfs dfs fs dfs   
+::dasasdasda:
+7:::::::
+sdf:LB:
+:sdfsfs
+stop: mov r1,#3
+ 	: NA
+asd76asdasssajdlisjaidjaijdsajidjaijdliajlidjadlija: asda
+s: 	jmp
+
+only: hlt
+	MNas:                     bne
+rt&sd: hlt
+gh_kj: stp
+hlt
+che:bne r3,4,t

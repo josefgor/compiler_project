@@ -1,0 +1,1 @@
+char* opCode(int );
