@@ -139,3 +139,5 @@ int similar_label(char * label,int line_number)
     }
     return 0;
 }
+
+// this is some comment
